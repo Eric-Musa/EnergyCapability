@@ -1,0 +1,7 @@
+name: energy-rev
+dependencies:
+  - python>=3.8
+  - anaconda
+  - pip
+  - pip:
+    - -r requirements.txt

@@ -1,0 +1,70 @@
+adal==1.2.7
+Bottleneck==1.3.2
+cachetools==4.2.2
+certifi==2021.5.30
+cffi==1.14.6
+charset-normalizer==2.0.6
+click==8.0.1
+colorama==0.4.4
+cryptography==3.4.8
+cycler==0.10.0
+fonttools==4.25.0
+google-api-core==2.0.1
+google-api-python-client==2.22.0
+google-auth==1.35.0
+google-auth-httplib2==0.1.0
+google-auth-oauthlib==0.4.6
+googleapis-common-protos==1.53.0
+h5py==3.4.0
+h5pyd==0.8.4
+httplib2==0.19.1
+idna==3.2
+isodate==0.6.0
+joblib==1.0.1
+kiwisolver @ file:///C:/ci/kiwisolver_1612282606037/work
+matplotlib @ file:///C:/ci/matplotlib-suite_1628011511716/work
+mkl-fft==1.3.0
+mkl-random @ file:///C:/ci/mkl_random_1626186184278/work
+mkl-service==2.4.0
+msrest==0.6.21
+msrestazure==0.6.4
+munkres==1.1.4
+NREL-NRWAL==0.0.4
+NREL-PySAM==2.2.4
+NREL-PySAM-stubs==2.2.4
+-e git+git@github.com:NREL/reV.git@55ebd4c164a684e8eb52d3eb34cb9ce54ae7e2c1#egg=NREL_reV&subdirectory=..\..\rev
+NREL-rex==0.2.64
+numexpr @ file:///C:/ci/numexpr_1618856738664/work
+numpy @ file:///C:/ci/numpy_and_numpy_base_1626271903025/work
+oauthlib==3.1.1
+olefile==0.46
+packaging==21.0
+pandas @ file:///C:/ci/pandas_1629682609359/work
+Pillow @ file:///C:/ci/pillow_1625663293593/work
+plotly==5.3.1
+plotting==0.0.7
+protobuf==3.18.0
+psutil==5.8.0
+pyasn1==0.4.8
+pyasn1-modules==0.2.8
+pycparser==2.20
+PyJWT==2.1.0
+pyparsing @ file:///home/linux1/recipes/ci/pyparsing_1610983426697/work
+python-dateutil @ file:///tmp/build/80754af9/python-dateutil_1626374649649/work
+pytz @ file:///tmp/build/80754af9/pytz_1612215392582/work
+PyYAML==5.4.1
+requests==2.26.0
+requests-oauthlib==1.3.0
+rsa==4.7.2
+scikit-learn==0.24.2
+scipy @ file:///C:/ci/scipy_1618856128765/work
+seaborn @ file:///tmp/build/80754af9/seaborn_1629307859561/work
+sip==4.19.13
+six @ file:///tmp/build/80754af9/six_1623709665295/work
+tenacity==8.0.1
+threadpoolctl==2.2.0
+toml==0.10.2
+tornado @ file:///C:/ci/tornado_1606942392901/work
+uritemplate==3.0.1
+urllib3==1.26.7
+wincertstore==0.2

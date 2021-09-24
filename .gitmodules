@@ -1,0 +1,3 @@
+[submodule "reV"]
+	path = reV
+	url = git@github.com:NREL/reV.git
